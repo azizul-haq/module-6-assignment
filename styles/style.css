@@ -137,3 +137,16 @@ header{
     padding: 0 5px;
     
 }
+
+/* footer */
+footer{
+    background-color: rgb(19, 18, 18);
+    color: #fff;
+    padding: 50px;
+
+}
+.footer-content{
+    width:500px;
+    margin: 0 auto;
+    text-align: center;
+}
