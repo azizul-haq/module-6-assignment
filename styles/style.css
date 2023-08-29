@@ -117,7 +117,7 @@ header{
 .coupon{
     text-align: center;
     height: 400px;
-   background-image: url('/images/Rectangle\ 9.png');
+   background-image: url("../images/Rectangle\ 9.png");
 }
 .coupon-content{
     padding-top: 120px;
