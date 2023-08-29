@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+   @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@400;700;800&display=swap');
+   font-family: 'Lato', sans-serif;
+   font-family: 'Open Sans', sans-serif;
+
+}
+/* common styles */
+section{
+    padding:80px 0px;
+}
+span{
+    color: #e06681;
+}
+/* shared styles */
+button{
+    background-color: #e06681;
+    border: none;
+    padding: 10px;
+    width: 100px;
+    height: 45px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+p{
+    padding: 10px 0px;
+    font-size: 20px;
+        
+}
+ h1 {
+     font-size: 30px;
+ }
+ /* header styles */
+header{
+    height: 592px;
+    background-color: #fcc0cd;
+}
+.header-container{
+    padding: 0 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-title{
+    width: 708px;
+}
+.header-title>h1{
+    font-size: 70px;
+}
